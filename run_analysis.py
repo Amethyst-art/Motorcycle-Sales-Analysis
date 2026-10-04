@@ -27,5 +27,11 @@ report_df = pd.read_sql_query(query, conn)
 # 4. Export the data smoothly to your results directory
 report_df.to_csv('results/revenue_analysis.csv', index=False)
 
+print("\n=======================================================")
+print(" TOP 5 WHOLESALE REVENUE COMBINATIONS")
+print("=======================================================")
+print(report_df.head(5).to_string(index=False))
+print("=======================================================\n")
+
 print("File exported to results/revenue_analysis.csv")
 conn.close()
