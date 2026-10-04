@@ -1,0 +1,54 @@
+product_line,month,warehouse,net_revenue
+Breaking system,2026-06,North,7083.54
+Breaking system,2026-06,Central,5341.81
+Breaking system,2026-07,Central,9342.24
+Breaking system,2026-07,West,5799.26
+Breaking system,2026-07,North,4259.95
+Breaking system,2026-08,North,3990.26
+Breaking system,2026-08,Central,3871.01
+Breaking system,2026-08,West,3203.42
+Electrical system,2026-06,West,11217.29
+Electrical system,2026-06,Central,6370.91
+Electrical system,2026-06,North,2374.4
+Electrical system,2026-07,West,15211.58
+Electrical system,2026-07,Central,10283.79
+Electrical system,2026-07,North,7622.75
+Electrical system,2026-08,North,14414.5
+Electrical system,2026-08,Central,9368.06
+Electrical system,2026-08,West,3747.87
+Engine,2026-06,West,21007.72
+Engine,2026-06,Central,14542.75
+Engine,2026-06,North,1476.54
+Engine,2026-07,West,28222.07
+Engine,2026-07,Central,14481.63
+Engine,2026-07,North,12421.14
+Engine,2026-08,West,25620.1
+Engine,2026-08,Central,16402.7
+Engine,2026-08,North,13423.85
+Frame & body,2026-06,Central,17356.38
+Frame & body,2026-06,West,9654.71
+Frame & body,2026-06,North,7606.93
+Frame & body,2026-07,Central,27483.37
+Frame & body,2026-07,West,6467.13
+Frame & body,2026-07,North,5194.5
+Frame & body,2026-08,Central,53832.75
+Frame & body,2026-08,North,13100.25
+Frame & body,2026-08,West,7208.38
+Miscellaneous,2026-06,Central,6818.53
+Miscellaneous,2026-06,North,6099.04
+Miscellaneous,2026-06,West,4339.64
+Miscellaneous,2026-07,Central,5802.92
+Miscellaneous,2026-07,North,5166.47
+Miscellaneous,2026-07,West,1808.32
+Miscellaneous,2026-08,Central,8203.42
+Miscellaneous,2026-08,North,5098.72
+Miscellaneous,2026-08,West,2930.36
+Suspension & traction,2026-06,Central,7796.73
+Suspension & traction,2026-06,North,7672.28
+Suspension & traction,2026-06,West,2779.12
+Suspension & traction,2026-07,West,8440.0
+Suspension & traction,2026-07,Central,6822.99
+Suspension & traction,2026-07,North,3618.7
+Suspension & traction,2026-08,Central,12601.23
+Suspension & traction,2026-08,West,2437.0
+Suspension & traction,2026-08,North,1500.47

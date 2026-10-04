@@ -1,0 +1,4 @@
+payment,transactions,gross_revenue,fees_paid,fee_pct_of_gross
+Credit card,108,260111.01,7543.23,2.9
+Transfer,55,181780.04,1817.76,1.0
+Cash,37,86411.42,0.0,0.0
