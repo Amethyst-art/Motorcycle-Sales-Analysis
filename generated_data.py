@@ -5,7 +5,7 @@ rng = np.random.default_rng(42)
 n = 1000
 
 lines = {  # product line: (mean unit price, spread)
-    "Breaking system": (18, 0.5), "Electrical system": (25, 0.5),
+    "Braking system": (18, 0.5), "Electrical system": (25, 0.5),
     "Engine": (45, 0.6), "Frame & body": (35, 0.5),
     "Miscellaneous": (12, 0.4), "Suspension & traction": (30, 0.5),
 }

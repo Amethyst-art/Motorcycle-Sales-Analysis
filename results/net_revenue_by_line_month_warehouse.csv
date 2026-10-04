@@ -1,12 +1,12 @@
 product_line,month,warehouse,net_revenue
-Breaking system,2026-06,North,7083.54
-Breaking system,2026-06,Central,5341.81
-Breaking system,2026-07,Central,9342.24
-Breaking system,2026-07,West,5799.26
-Breaking system,2026-07,North,4259.95
-Breaking system,2026-08,North,3990.26
-Breaking system,2026-08,Central,3871.01
-Breaking system,2026-08,West,3203.42
+Braking system,2026-06,North,7083.54
+Braking system,2026-06,Central,5341.81
+Braking system,2026-07,Central,9342.24
+Braking system,2026-07,West,5799.26
+Braking system,2026-07,North,4259.95
+Braking system,2026-08,North,3990.26
+Braking system,2026-08,Central,3871.01
+Braking system,2026-08,West,3203.42
 Electrical system,2026-06,West,11217.29
 Electrical system,2026-06,Central,6370.91
 Electrical system,2026-06,North,2374.4
