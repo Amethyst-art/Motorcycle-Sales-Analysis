@@ -1,0 +1,19 @@
+warehouse,product_line,total_qty,total_revenue
+Central,Frame & body,2959,126250.04
+West,Engine,1284,86028.56
+Central,Engine,1550,73485.02
+Central,Suspension & traction,1231,48623.59
+Central,Electrical system,1875,40385.67
+West,Electrical system,1008,39177.19
+North,Engine,897,37453.79
+North,Frame & body,939,37112.55
+West,Frame & body,906,31964.11
+North,Electrical system,1128,31471.28
+Central,Breaking system,1782,29145.45
+Central,Miscellaneous,2326,27682.99
+North,Suspension & traction,704,23049.66
+West,Suspension & traction,805,21878.42
+North,Miscellaneous,1199,20421.03
+North,Breaking system,886,20239.72
+West,Breaking system,658,13527.58
+West,Miscellaneous,824,11798.57
